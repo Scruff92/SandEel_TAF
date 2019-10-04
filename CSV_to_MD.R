@@ -1,7 +1,7 @@
 #Script to convert .csv to MD table
 
 
-Path_to_CSV<-"~/Documents/ICES/Sandeel Reports/Tables_and_Figures.csv"
+Path_to_CSV<-"~/Documents/ICES/Sandeel_Reports/SandEel_TAF/Tables_and_Figures.csv"
 
 
 md_table <- function(df){

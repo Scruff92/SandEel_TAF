@@ -1,7 +1,7 @@
 |Type|Key|Title|My_Project|Already_In_TAF|To_go_in_TAF|Comments|Utilities|Util_Author|
 |---|---|---|---|---|---|---|---|---|
 |Table|9.2.12|Short Term Forecast|Y|No|Yes|||NA|
-|Table|9.2.11|Input to Forecast|Y|No|Yes|||NA|
+|Table|9.2.11|Input to Forecast|Y|Yes|Yes|||NA|
 |Table|9.2.10|SUMMARY:Estimated R, TBS,  SSB, Yield and average F-bar||Yes|Yes|�summary� Numbers are different||NA|
 |Table|9.2.9|Stock numbers (millions). ||Yes|Yes|Small difference in numbers (eg. Last row) �natage�||NA|
 |Table|9.2.8|Natural M at age per half year||Yes|Yes|||NA|
